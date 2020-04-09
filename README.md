@@ -134,4 +134,4 @@ plot(powerDT[, dateTime], powerDT[,Global_reactive_power], type="l", xlab="datet
 
 dev.off()
 ```
-![](https://github.com/ch-amul/ExData_Plotting1/blob/master/plot4.R)
+![](https://github.com/ch-amul/ExData_Plotting1/blob/master/plot4.png)
